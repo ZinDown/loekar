@@ -2,7 +2,7 @@
 "version":"1.0",
 "message":"Please Update Sir.",
 "link":"https://konyijr.github.io/",
-"state":"on",
+"state":"off",
 "des":"Please VPN connect.\nယခု Video ကိုကြည့်ရန် \nVPN ခံထားရန် လိုအပ်ပါတယ် ချိဖ ။",
 "apyar":[
 {
@@ -14,6 +14,11 @@
 "title":"ချောင်းရိုက်(Myanmar-2)",
 "image":"https://img-cf.xnxx-cdn.com/videos/thumbs169xnxxll/97/9e/48/979e48042bc9fdb141c1574ac3ee983c/979e48042bc9fdb141c1574ac3ee983c.7.jpg",
 "link":"https://raw.githubusercontent.com/KoNyiJR/apyarmm/main/myanmar2.json"
+},
+{
+"title":"ချောင်းရိုက်(Myanmar-3)",
+"image":"https://img-hw.xnxx-cdn.com/videos/thumbs169xnxxll/62/57/f5/6257f5ca2337b6e3055dd08c4267b9ad/6257f5ca2337b6e3055dd08c4267b9ad.1.jpg",
+"link":"https://raw.githubusercontent.com/KoNyiJR/apyarmm/main/myanmar3.json"
 },
 {
 "title":"Japanese - 1",
