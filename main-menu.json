@@ -3,12 +3,18 @@
 "message":"Please Update Sir.\n- ကျေးဇူးပြု၍ ကျွန်တော်တို့ရဲ့ App အသစ်ကို ဒေါင်းယူပေးပါဗျ။\n- ဖောင်းဒိုင်းအသစ်များ၊ချောင်းရိုက် အသစ်များကို New App မှာ ကြည့်ရှူခံစားလိုက်ပါ။\nAdmin=>KyawGyi",
 "link":"https://play.google.com/store/apps/details?id=com.nyilin.jr",
 "state":"off",
-"des":"မဖြစ်မနေ VPN ချိတ်ကြည့်ရန် လိုအပ်နေပါတယ် ချစ်ဖတို့\nPlease VPN connect.\nယခု Video ကိုကြည့်ရန် \nVPN ခံထားရန် လိုအပ်ပါတယ် ချိဖ😘😘 ။\nကနေဒါ၊ထိုင်း၊ဂျပန်၊စင်္ကါပူ၊အမေရိကန်...စသည့်နိုင်ငံများနဲ့ VPNချိတ်ပြီးသုံးနိုင်ပါတယ်ဗျ။",
+"des":"(ယခု video ကိုကြည့်ရန် VPN ခံထားရန် လိုအပ်ပါတယ်)\nPlease VPN connect.\nကနေဒါ၊ထိုင်း၊ဂျပန်၊စင်္ကါပူ၊အမေရိကန်...စသည့်နိုင်ငံများနဲ့ VPNချိတ်ပြီးသုံးနိုင်ပါတယ်ဗျ။",
 "apyar":[
 {
 "title":" Full Movie ( 1 ) ",
 "image":"https://img-l3.xnxx-cdn.com/videos/thumbslll/cc/d0/81/ccd08157846665616319e395a5159e48/ccd08157846665616319e395a5159e48.11.jpg",
 "link":"https://raw.githubusercontent.com/KoNyiJR/apyarmm/main/fullmovie1.json",
+"type":"x"
+},
+{
+"title":" Full Movie ( 2 ) ",
+"image":"https://img-cf.xnxx-cdn.com/videos/thumbs169xnxxll/20/90/4c/20904c8120498b66b0355729e8352960/20904c8120498b66b0355729e8352960.6.jpg",
+"link":"https://raw.githubusercontent.com/KoNyiJR/apyarmm/main/fullmovie2.json",
 "type":"x"
 },
 {
